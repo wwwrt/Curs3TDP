@@ -1,3 +1,8 @@
+.button {
+    border-radius: 25px;
+    margin-bottom: 10px;
+}
+
 .login {
     background-color: rgb(126, 126, 238);
     border-radius: 25px;
