@@ -1,17 +1,27 @@
 .login {
-    background-color: rgb(139, 139, 233);
+    background-color: rgb(126, 126, 238);
     border-radius: 25px;
-    width: 50%;
+    border-color: rgb(126, 126, 238);
+    width: 250px;
+    text-align: center;
+    padding: 5px;
+    margin-bottom: 10px;
 }
 
 .google {
     background-color: red;
+    border-color: red;
     border-radius: 25px;
-    width: 50%;
+    width: 250px;
+    padding: 5px;
+    margin-bottom: 5px;
 }
 
 .facebook {
     background-color: blue;
+    border-color: blue;
     border-radius: 25px;
-    width: 50%;
+    width: 250px;
+    padding: 5px;
+    margin-bottom: 5px;
 }
