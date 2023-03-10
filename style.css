@@ -1,0 +1,17 @@
+.login {
+    background-color: rgb(139, 139, 233);
+    border-radius: 25px;
+    width: 50%;
+}
+
+.google {
+    background-color: red;
+    border-radius: 25px;
+    width: 50%;
+}
+
+.facebook {
+    background-color: blue;
+    border-radius: 25px;
+    width: 50%;
+}
