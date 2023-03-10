@@ -1,0 +1,15 @@
+.welcome-image {
+    width: 50%;
+
+}
+
+.welcome {
+    width: 50%;
+    display: flex;
+    justify-content: center;
+}
+
+.welcome-login {
+    width: 50%;
+
+}
